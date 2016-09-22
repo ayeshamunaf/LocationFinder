@@ -1,0 +1,55 @@
+body{
+	background-color: #66777d;
+	font-family: sans-serif;
+}
+.container{
+	width: 200mm;
+	height: 100mm;
+	border-style: solid;
+	border-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40mm;
+    padding-bottom: 5mm;
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+}
+
+#location{
+	width: 60mm;
+	height: 8mm; 
+}
+
+.text-box{
+    width: 60mm;
+    margin-top: 15mm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+}
+
+button{
+	margin-top: 5mm;
+	width: 60mm;
+	height: 10mm;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+.btn{
+    width: 60mm;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add {
+    margin-top: 20mm;
+}
+
+p{
+	text-align: center;
+    color: #ffffff;
+}
